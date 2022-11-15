@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\bin\Debug\netcoreapp3.1\Delegates_HomeWork.exe
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\bin\Debug\netcoreapp3.1\Delegates_HomeWork.deps.json
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\bin\Debug\netcoreapp3.1\Delegates_HomeWork.runtimeconfig.json
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\bin\Debug\netcoreapp3.1\Delegates_HomeWork.runtimeconfig.dev.json
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\bin\Debug\netcoreapp3.1\Delegates_HomeWork.dll
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\bin\Debug\netcoreapp3.1\Delegates_HomeWork.pdb
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\obj\Debug\netcoreapp3.1\Delegates_HomeWork.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\obj\Debug\netcoreapp3.1\Delegates_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\obj\Debug\netcoreapp3.1\Delegates_HomeWork.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\obj\Debug\netcoreapp3.1\Delegates_HomeWork.AssemblyInfo.cs
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\obj\Debug\netcoreapp3.1\Delegates_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\obj\Debug\netcoreapp3.1\Delegates_HomeWork.dll
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\obj\Debug\netcoreapp3.1\Delegates_HomeWork.pdb
+C:\Users\User\source\repos\Delegates_HomeWork\Delegates_HomeWork\obj\Debug\netcoreapp3.1\Delegates_HomeWork.genruntimeconfig.cache
